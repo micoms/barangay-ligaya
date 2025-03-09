@@ -49,7 +49,7 @@ export default function Home() {
               <div className="p-6">
                 <div className="text-yellow-500 font-bold mb-2">July 10, 2023</div>
                 <h3 className="text-xl font-bold mb-3 text-green-800">Cleanup Drive</h3>
-                <p className="text-gray-700 mb-4">Join us for our monthly cleanup drive on July 25, 2023. Let's work together to keep our barangay clean and green.</p>
+                <p className="text-gray-700 mb-4">Join us for our monthly cleanup drive on July 25, 2023. Let&apos;s work together to keep our barangay clean and green.</p>
                 <Link href="/news/cleanup-drive" className="text-green-700 font-semibold hover:text-green-900">
                   Read More →
                 </Link>

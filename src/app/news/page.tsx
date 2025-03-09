@@ -85,7 +85,7 @@ export default function News() {
                 <div className="text-yellow-500 font-bold mb-2">July 10, 2023</div>
                 <h3 className="text-xl font-bold mb-3 text-green-800">Cleanup Drive</h3>
                 <p className="text-gray-700 mb-4">
-                  Join us for our monthly cleanup drive on July 25, 2023. Let's work together to keep our barangay clean and green. Volunteers will be provided with cleaning materials and refreshments.
+                  Join us for our monthly cleanup drive on July 25, 2023. Let&apos;s work together to keep our barangay clean and green. Volunteers will be provided with cleaning materials and refreshments.
                 </p>
                 <Link href="/news/cleanup-drive" className="text-green-700 font-semibold hover:text-green-900">
                   Read More →
@@ -136,7 +136,7 @@ export default function News() {
                 <div className="text-yellow-500 font-bold mb-2">June 20, 2023</div>
                 <h3 className="text-xl font-bold mb-3 text-green-800">Barangay Fiesta Announcement</h3>
                 <p className="text-gray-700 mb-4">
-                  The annual Barangay Ligaya Fiesta will be celebrated on August 15-16, 2023. Various activities and competitions are being prepared for this year's celebration.
+                  The annual Barangay Ligaya Fiesta will be celebrated on August 15-16, 2023. Various activities and competitions are being prepared for this year&apos;s celebration.
                 </p>
                 <Link href="/news/barangay-fiesta" className="text-green-700 font-semibold hover:text-green-900">
                   Read More →
