@@ -224,7 +224,7 @@ export default function Services() {
               </li>
               <li className="mb-4">
                 <h3 className="text-lg font-semibold text-green-800 mb-2">Pay the Processing Fee</h3>
-                <p>Pay the corresponding fee at the Barangay Treasurer's Office.</p>
+                <p>Pay the corresponding fee at the Barangay Treasurer&apos;s Office.</p>
               </li>
               <li>
                 <h3 className="text-lg font-semibold text-green-800 mb-2">Claim Your Document</h3>

@@ -19,7 +19,7 @@ export default function About() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
             <div>
               <p className="text-gray-700 mb-4">
-                Barangay Ligaya was established in 1974 as part of the reorganization of local government units in Gabaldon, Nueva Ecija. The name "Ligaya," which means "joy" or "happiness" in Filipino, was chosen to reflect the community's aspiration for a prosperous and harmonious society.
+                Barangay Ligaya was established in 1974 as part of the reorganization of local government units in Gabaldon, Nueva Ecija. The name &quot;Ligaya,&quot; which means &quot;joy&quot; or &quot;happiness&quot; in Filipino, was chosen to reflect the community&apos;s aspiration for a prosperous and harmonious society.
               </p>
               <p className="text-gray-700 mb-4">
                 Originally an agricultural community, Barangay Ligaya has grown over the decades to become a vibrant part of Gabaldon municipality, with developments in infrastructure, education, and local commerce while maintaining its rich cultural heritage and natural resources.
